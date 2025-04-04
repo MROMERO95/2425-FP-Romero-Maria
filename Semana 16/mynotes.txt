@@ -1,0 +1,4 @@
+Linea 1: Mis nombres son Maria Ismenia
+Linea 2: Mis apellidos son Romero Davila 
+Linea 3: Resido en la ciudad de Guayaquil.
+Linea 4: Lugar de nacimiento: El Empalme,Guayas.

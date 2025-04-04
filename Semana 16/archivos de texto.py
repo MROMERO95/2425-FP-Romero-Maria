@@ -35,3 +35,7 @@ print(linea_4.strip())
 
 # Cierre del archivo de lectura
 archivo_lectura.close()
+
+
+
+
