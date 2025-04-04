@@ -6,7 +6,8 @@ datos_personales = "mynotes.txt"
 # Modo de apertura: "w" para escritura (write)
 archivo_escritura = open(datos_personales, "w")
 
-# Método write(): escribir una línea a la vez
+# Escribir el archivo con write
+
 archivo_escritura.write("Linea 1: Mis nombres son Maria Ismenia\n")
 archivo_escritura.write("Linea 2: Mis apellidos son Romero Davila \n")
 archivo_escritura.write("Linea 3: Resido en la ciudad de Guayaquil.\n")
