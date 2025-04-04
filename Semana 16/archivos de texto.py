@@ -1,4 +1,4 @@
-# Ejemplo de Escritura en Archivos en Python usando write() y writelines()
+# Ejemplo de Escritura en Archivos en Python usando write() y readline()
 
 # Definimos el nombre del archivo
 datos_personales = "mynotes.txt"
